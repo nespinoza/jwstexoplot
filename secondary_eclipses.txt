@@ -1,0 +1,37 @@
+#
+# MIRI Secondary eclipse targets at 15 um grabbed by hand from JWST Cycles 1, 2 and 3
+# by Nestor Espinoza (nespinoza@stsci.edu). 
+#
+# Sources:
+#
+# - JWST GO Cycle 1: https://www.stsci.edu/jwst/science-execution/approved-programs/general-observers/cycle-1-go
+# - JWST GO Cycle 2: https://www.stsci.edu/jwst/science-execution/approved-programs/general-observers/cycle-2-go
+# - JWST GO Cycle 3: https://www.stsci.edu/jwst/science-execution/approved-programs/general-observers/cycle-3-go
+# - JWST GTO: https://www.stsci.edu/jwst/science-execution/approved-programs/guaranteed-time-observations
+# 
+#
+# Column explainer:
+#
+# 1: Planet name
+# 2: Number of eclipses
+# 3: Programs observing the eclipses (PID)
+# 4: Status of the observations
+# 5: Comments
+#
+#
+# Target name       Number of eclipses           PID              Status of observations           Comments
+TRAPPIST-1 b,       6,                           1177; 3077,      Completed; Completed,            1177 (x5); 3077 (x1, is a double eclipse with c). PID 1270 has x5 in 12 um. PID 5191 will get 4 more eclipses at 12 um.
+TRAPPIST-1 c,       5,                           2304; 3077,      Completed; Completed,            2304 (x4); 3077 (x1, is a double eclipse with b). PID 5191 will get 4 more eclipses at 12 um.
+TRAPPIST-1 d,       1,                           3077,            Completed,                       Eclipse falls on top of transit of g (if ecc = 0)
+TRAPPIST-1 e,       1,                           2304,            Completed,                       Eclipse falls on top of eclipse of c (if ecc = 0)
+TRAPPIST-1 f,       1,                           3077,            Completed,                       Clean eclipse if ecc = 0
+GJ 3473 b,          4,                           3730,            2/4 Completed,
+GJ 357 b,           1,                           3730,            Not observed yet,                Not in Bjorns list.
+HD 260655 b,        2,                           3730,            Not observed yet,                 
+L 98-59 c,          1,                           3730,            Completed,                        
+LHS 1140 c,         3,                           3730,            1/3 Completed,
+LHS 1478 b,         2,                           3730,            Completed,
+LTT 3780 b,         2,                           3730,            Not observed yet,                Not in Bjorns list.
+TOI-1468 b,         3,                           3730,            Completed,                        
+TOI-270 b,          4,                           3730,            Completed,                       Not in Bjorns list.
+LP 791-18 d,        5,                           6457,            Not observed yet,                

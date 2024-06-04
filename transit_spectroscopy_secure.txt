@@ -1,0 +1,23 @@
+#
+# This list has targets as of June 4, 2024, of gas giant planets (R > 3 Rearth) that have publicly available primary transit data from JWST/NIRSpec
+# This was taken "by hand".
+#
+# Target    PID     Instrument/Mode/Filter
+WASP-121b  1729    NIRSpec/G395H
+TOI-421b   1935    NIRSpec/G395M
+WASP-178b  2055    NIRSpec/G395H
+V1298-Tauc 2149    NIRSpec/G395H
+V1298-Taud 2149    NIRSpec/G395H
+NGTS-10b   2158    NIRSpec/PRISM
+WASP-127b  2437    NIRSpec/G395H
+Kepler-51b 2454    NIRSpec/PRISM
+HIP67522b  2498    NIRSpec/G395H
+TOI-3984b  3171    NIRSpec/PRISM
+TOI-3757b  3171    NIRSpec/PRISM
+HATS-6b    3171    NIRSpec/PRISM
+HATS-75b   3171    NIRSpec/PRISM
+TOI-5293b  3171    NIRSpec/PRISM
+TOI-3714b  3171    NIRSpec/PRISM
+TOI-5205b  3171    NIRSpec/PRISM
+WASP-43b   1224    NIRSpec/G395H
+WASP-17b   1353    NIRSpec/G395H
